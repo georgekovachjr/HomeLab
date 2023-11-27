@@ -28,8 +28,8 @@ cd elastic-agent-8.10.4-windows-x86_64
 .\elastic-agent.exe install --url=https://192.168.1.111:8220 --enrollment-token=bTRCVENvd0JCYVhfVVVJXzZrVXc6Q1Rlbm51WGZRUUtOVDhFWDl0dmlNZw== --insecure
 
 # Router
-![(./img/DD WRT Log.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20Log.png)
 ![(./img/DD WRT Nighthawk Router.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20Nighthawk%20Router.png)
+![(./img/DD WRT Log.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20Log.png)
 ![(./img/DD WRT VPN.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20VPN.png)
 ![(./img/DD WRT iptables.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20iptables.png)
 
