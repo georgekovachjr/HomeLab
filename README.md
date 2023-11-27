@@ -20,9 +20,12 @@ IDS/IPS - Snort 2 on Debian 11
 Firewall - pfSense
 
 
-
-
-
+# Windows Integration Script
+$ProgressPreference = 'SilentlyContinue'
+Invoke-WebRequest -Uri https://artifacts.elastic.co/downloads/beats/elastic-agent/elastic-agent-8.10.4-windows-x86_64.zip -OutFile elastic-agent-8.10.4-windows-x86_64.zip
+Expand-Archive .\elastic-agent-8.10.4-windows-x86_64.zip -DestinationPath .
+cd elastic-agent-8.10.4-windows-x86_64
+.\elastic-agent.exe install --url=https://192.168.1.111:8220 --enrollment-token=bTRCVENvd0JCYVhfVVVJXzZrVXc6Q1Rlbm51WGZRUUtOVDhFWDl0dmlNZw== --insecure
 
 # Router
 ![(./img/DD WRT Log.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20Log.png)
