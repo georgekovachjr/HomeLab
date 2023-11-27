@@ -13,10 +13,10 @@ My next step is to add the iptables to draw websites for my Burp Pro.
 
 
 # Tools
-Router - DD WRT on a Nighthawk Router with PIA VPN and iptables to mirror
-Hypervisor - VMWare ESXi on an HP z420 Server with 50 VM's of various types
-SIEM - SecurityOnion
-IDS/IPS - Snort 2 on Debian 11
+Router - DD WRT on a Nighthawk Router with PIA VPN and iptables to mirror.
+Hypervisor - VMWare ESXi on an HP z420 Server with 50 VM's of various types.
+SIEM - SecurityOnion.
+IDS/IPS - Snort 2 on Debian 11.
 Firewall - pfSense
 
 
