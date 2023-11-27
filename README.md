@@ -1,12 +1,16 @@
 # HomeLab
 Home Lab
 Originally, it was just my pen test vm lab. 
-
+And a library of vulnerable machines and OS's. 
+All the data is real from my actual daily computer and gaming computer. 
+My next step is to add the iptables to draw websites for my Burp Pro. 
 
 
 # Design
 
 ![(./img/Network Design.jpg)](https://github.com/georgekovachjr/HomeLab/blob/main/img/Network%20Design.png)
+
+
 
 # Tools
 Router - DD WRT on a Nighthawk Router with PIA VPN and iptables to mirror
@@ -16,9 +20,8 @@ IDS/IPS - Snort 2 on Debian 11
 Firewall - pfSense
 
 
-And a library of vulnerable machines and OS's. 
-All the data is real from my actual daily computer and gaming computer. 
-My next step is to add the iptables to draw websites for my Burp Pro. 
+
+
 
 
 # Router
