@@ -5,7 +5,7 @@ Originally, it was just my pen test vm lab.
 
 
 # Design
-![Network Design & Topology](Network Design.jpg)
+![Network Design & Topology](./img/Network Design.jpg)
 
 # Tools
 Router - DD WRT on a Nighthawk Router with PIA VPN and iptables to mirror
@@ -21,22 +21,22 @@ My next step is to add the iptables to draw websites for my Burp Pro.
 
 
 # Router
-(DD WRT Log.png)
-(DD WRT Nighthawk Router.png)
-(DD WRT VPN.png)
-(DD WRT iptables.png)
+(./img/DD WRT Log.png)
+(./img/DD WRT Nighthawk Router.png)
+(./img/DD WRT VPN.png)
+(./img/DD WRT iptables.png)
 
 
 # ESXi
-(Home Server ESXi.png)
-(ESXi VM List 1.png)
-(ESXi VM List 2.png)
-(ESXi VM List 3.png)
+(./img/Home Server ESXi.png)
+(./img/ESXi VM List 1.png)
+(./img/ESXi VM List 2.png)
+(./img/ESXi VM List 3.png)
 
 # SIEM/IPS/IDS/Firewall
-(SecurityOnion.png)
-(SecurityOnion Integration.png)
-(pfSense.png)
+(./img/SecurityOnion.png)
+(./img/SecurityOnion Integration.png)
+(./img/pfSense.png)
 
 # VM's Locally
-(Workstation VMs.png)
+(./img/Workstation VMs.png)
