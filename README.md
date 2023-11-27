@@ -30,7 +30,7 @@ cd elastic-agent-8.10.4-windows-x86_64
 # Router
 ![(./img/DD WRT Nighthawk Router.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20Nighthawk%20Router.png)
 ![(./img/DD WRT Log.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20Log.png)
-![(./img/DD WRT VPN.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20VPN.png)
+![https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20VPN.png](https://github.com/georgekovachjr/HomeLab/blob/e02958980b7b8190f689113a2786704417a00d60/img/InkedDD%20WRT%20VPN_LI.jpg)
 ![(./img/DD WRT iptables.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/DD%20WRT%20iptables.png)
 
 
