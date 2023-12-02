@@ -47,3 +47,13 @@ cd elastic-agent-8.10.4-windows-x86_64
 
 # VM's Locally
 ![(./img/Workstation VMs.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/Workstation%20VMs.png)https://github.com/georgekovachjr/HomeLab/blob/main/img/Workstation%20VMs.png
+
+
+# CCNA
+working on a homelab for upcoming CCNA 
+Cisco Catalyst 3550
+cisco 1841 router
+Cisco 871 (W) Ethernet Router
+Cisco 2610 Ethernet Modular Router
+Cisco WS-C2950T48 Switch (en route)
+Cisco Catalyst 2960  ?
