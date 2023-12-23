@@ -7,7 +7,7 @@ My next step is to add the iptables to draw websites for my Burp Pro.
 
 
 # Design
-https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Network%20Design%20CCNA.png
+![(./img/Network%20Design%20CCNA.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Network%20Design%20CCNA.png)
 
 
 
@@ -41,8 +41,8 @@ cd elastic-agent-8.10.4-windows-x86_64
 
 # SIEM/IPS/IDS/Firewall
 ![(./img/SecurityOnion.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/SecurityOnion.png)
-![(./img/SecurityOnion Integration.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/SecurityOnion%20Integration.png)https://github.com/georgekovachjr/HomeLab/blob/main/img/SecurityOnion%20Integration.png
-![(./img/pfSense.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/pfSense.png)https://github.com/georgekovachjr/HomeLab/blob/main/img/pfSense.png
+![(./img/SecurityOnion Integration.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/SecurityOnion%20Integration.png)
+![(./img/pfSense.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/pfSense.png)
 
 # VM's Locally
 ![(./img/Workstation VMs.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/Workstation%20VMs.png)
@@ -56,3 +56,4 @@ Cisco 2610 Ethernet Modular Router with NM-16ESW 16-Port Ethernet Switch
 Cisco WS-C2950T48 Switch
 Cisco Catalyst 2960  
 ![(./img/Initial Setup.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Initial%20Setup.png)
+![(./img/Cisco.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Cisco.png)
