@@ -55,4 +55,4 @@ Cisco 871 (W) Ethernet Router
 Cisco 2610 Ethernet Modular Router with NM-16ESW 16-Port Ethernet Switch
 Cisco WS-C2950T48 Switch
 Cisco Catalyst 2960  
-![(./images/Initial Setup.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Initial%20Setup.png)
+![(./img/Initial Setup.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Initial%20Setup.png)
