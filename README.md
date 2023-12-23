@@ -7,8 +7,7 @@ My next step is to add the iptables to draw websites for my Burp Pro.
 
 
 # Design
-
-![(./img/Network Design.jpg)](https://github.com/georgekovachjr/HomeLab/blob/main/img/Network%20Design.png)
+https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Network%20Design%20CCNA.png
 
 
 
@@ -52,8 +51,10 @@ cd elastic-agent-8.10.4-windows-x86_64
 # CCNA
 working on a homelab for upcoming CCNA 
 Cisco Catalyst 3550
-cisco 1841 router
+cisco 1841 router with Cisco HWIC-4ESW-POE 4-Port Ethernet Switch
 Cisco 871 (W) Ethernet Router
-Cisco 2610 Ethernet Modular Router
-Cisco WS-C2950T48 Switch (en route)
-Cisco Catalyst 2960  ?
+Cisco 2610 Ethernet Modular Router with NM-16ESW 16-Port Ethernet Switch
+Cisco WS-C2950T48 Switch
+Cisco Catalyst 2960  
+https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Initial%20Setup.png
+https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Cisco.png
