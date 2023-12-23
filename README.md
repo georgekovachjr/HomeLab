@@ -45,8 +45,7 @@ cd elastic-agent-8.10.4-windows-x86_64
 ![(./img/pfSense.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/pfSense.png)https://github.com/georgekovachjr/HomeLab/blob/main/img/pfSense.png
 
 # VM's Locally
-![(./img/Workstation VMs.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/Workstation%20VMs.png)https://github.com/georgekovachjr/HomeLab/blob/main/img/Workstation%20VMs.png
-
+![(./img/Workstation VMs.png)](https://github.com/georgekovachjr/HomeLab/blob/main/img/Workstation%20VMs.png)
 
 # CCNA
 working on a homelab for upcoming CCNA 
@@ -56,4 +55,4 @@ Cisco 871 (W) Ethernet Router
 Cisco 2610 Ethernet Modular Router with NM-16ESW 16-Port Ethernet Switch
 Cisco WS-C2950T48 Switch
 Cisco Catalyst 2960  
-[![(./images/Initial Setup.png)]](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Initial%20Setup.png)https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Initial%20Setup.png
+![(./images/Initial Setup.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Initial%20Setup.png)
