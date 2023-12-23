@@ -5,6 +5,7 @@ And a library of vulnerable machines and OS's.
 All the data is real from my actual daily computer and gaming computer. 
 My next step is to add the iptables to draw websites for my Burp Pro. 
 
+![(./img/Cisco.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Cisco.png)
 
 # Design
 ![(./img/Network%20Design%20CCNA.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Network%20Design%20CCNA.png)
@@ -56,4 +57,4 @@ Cisco 2610 Ethernet Modular Router with NM-16ESW 16-Port Ethernet Switch
 Cisco WS-C2950T48 Switch
 Cisco Catalyst 2960  
 ![(./img/Initial Setup.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Initial%20Setup.png)
-![(./img/Cisco.png)](https://github.com/georgekovachjr/georgekovachjr.github.io/blob/main/images/Cisco.png)
+
